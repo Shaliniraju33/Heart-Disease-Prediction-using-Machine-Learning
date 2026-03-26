@@ -109,13 +109,6 @@ heart-disease-prediction/
 
 ---
 
-## 👩‍💻 Author
-
-Shalini R
-B.Sc Computer Science and Design
-
----
-
 ## ⭐ Conclusion
 
 This project demonstrates how Machine Learning can be used in healthcare to predict heart disease and assist in early diagnosis.
